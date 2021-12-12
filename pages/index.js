@@ -15,15 +15,11 @@ export default function Home({ results }) {
       </Head>
 
       <Header />
-
       <Nav />
-
-      {/* Results */}
-
       <Results results={results} />
 
       
-        </div>
+    </div>
   )
 }
 

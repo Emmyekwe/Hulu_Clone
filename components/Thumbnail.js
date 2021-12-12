@@ -30,4 +30,4 @@ function Thumbnail ({ result }) {
     )
 }
 
-export default Thumbnail
+export default Thumbnail;
